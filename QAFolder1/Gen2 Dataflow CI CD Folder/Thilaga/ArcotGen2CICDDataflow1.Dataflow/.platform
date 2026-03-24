@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "ArcotGen2CICDDataflow1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d596ad37-8b10-845c-45dd-f5be6265bccc"
+  }
+}

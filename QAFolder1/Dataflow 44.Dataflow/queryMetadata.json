@@ -1,0 +1,20 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "Dataflow 44",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "Sheet1": {
+      "queryId": "86d50116-6c0d-49f8-a72d-90f84e32bb9f",
+      "queryName": "Sheet1"
+    }
+  },
+  "connections": [
+    {
+      "path": "https://docs.google.com/spreadsheets/d/1zXJv-zc607Bse6Hb9TMjaCfTeDi5kxpTw9Wz4j5GMy8/edit?gid=0#gid=0",
+      "kind": "GoogleSheets",
+      "connectionId": "{\"ClusterId\":\"b6e71003-dc09-47ca-8c93-3ea1d8883632\",\"DatasourceId\":\"dd8ca103-b3cc-4fed-8c00-f2c26c3edea1\"}"
+    }
+  ]
+}

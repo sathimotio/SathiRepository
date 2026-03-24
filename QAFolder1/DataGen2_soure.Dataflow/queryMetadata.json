@@ -1,0 +1,20 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "DataGen2_soure",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "Livestock and Meat Dataflow_edit": {
+      "queryId": "60b6f208-30f7-4ae5-9751-f5eabf949372",
+      "queryName": "Livestock and Meat Dataflow_edit"
+    }
+  },
+  "connections": [
+    {
+      "path": "PowerPlatformDataflows",
+      "kind": "PowerPlatformDataflows",
+      "connectionId": "{\"ClusterId\":\"b6e71003-dc09-47ca-8c93-3ea1d8883632\",\"DatasourceId\":\"0db4c4f2-7566-437e-b54b-728d7478daa7\"}"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "ArcotGen2CICDDataflow1",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "Megaquery": {
+      "queryId": "deaafc64-1e81-4a09-94e6-8b97a5c26f37",
+      "queryName": "Megaquery"
+    }
+  },
+  "connections": [
+    {
+      "path": "PowerPlatformDataflows",
+      "kind": "PowerPlatformDataflows",
+      "connectionId": "{\"ClusterId\":\"b6e71003-dc09-47ca-8c93-3ea1d8883632\",\"DatasourceId\":\"90379697-e5e8-4fd1-8c78-19e32933b9ba\"}"
+    }
+  ]
+}

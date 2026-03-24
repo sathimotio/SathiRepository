@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "SathiNotebook2"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8d19031c-9ddb-953a-42aa-175053206993"
+  }
+}

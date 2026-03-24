@@ -1,0 +1,20 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "Dataflow 1_offshore",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "Livestock and Meat Dataflow": {
+      "queryId": "053f7b13-07a1-4096-9c7a-c14363da1d17",
+      "queryName": "Livestock and Meat Dataflow"
+    }
+  },
+  "connections": [
+    {
+      "path": "PowerPlatformDataflows",
+      "kind": "PowerPlatformDataflows",
+      "connectionId": "{\"ClusterId\":\"b6e71003-dc09-47ca-8c93-3ea1d8883632\",\"DatasourceId\":\"90379697-e5e8-4fd1-8c78-19e32933b9ba\"}"
+    }
+  ]
+}

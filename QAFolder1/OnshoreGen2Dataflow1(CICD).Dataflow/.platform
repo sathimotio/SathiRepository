@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "OnshoreGen2Dataflow1(CICD)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "df650814-cbeb-b4a3-4bc6-0b0564168005"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "Dataflow 2CI-CD_kkuosal",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "Livestock and Meat Dataflow": {
+      "queryId": "9db94b9f-36d2-4625-8db1-aecf58eb8c68",
+      "queryName": "Livestock and Meat Dataflow"
+    }
+  },
+  "connections": [
+    {
+      "path": "PowerPlatformDataflows",
+      "kind": "PowerPlatformDataflows",
+      "connectionId": "{\"ClusterId\":\"b6e71003-dc09-47ca-8c93-3ea1d8883632\",\"DatasourceId\":\"cfdbdd9b-992e-4311-bf51-7fc0223c0a13\"}"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "Dataflow gen2 CI_CD_simply_rjayaku",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "OnshoreGen2Dataflow2(noCICD)": {
+      "queryId": "c4a1d77e-84e4-4a5f-bcba-c3428de12a82",
+      "queryName": "OnshoreGen2Dataflow2(noCICD)"
+    }
+  },
+  "connections": [
+    {
+      "path": "PowerPlatformDataflows",
+      "kind": "PowerPlatformDataflows",
+      "connectionId": "{\"ClusterId\":\"b6e71003-dc09-47ca-8c93-3ea1d8883632\",\"DatasourceId\":\"90379697-e5e8-4fd1-8c78-19e32933b9ba\"}"
+    }
+  ]
+}

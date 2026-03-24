@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "Dataflow gen2 CI_CD_simply_rjayaku_edit",
+    "description": "Added"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2c39f5a0-e4b1-817a-4c1f-a5b847554114"
+  }
+}

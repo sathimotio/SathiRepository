@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "Dataflow gen2 CI_CD_Delete_rjayaku"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4a6996de-1728-bd8b-488e-04f78d713890"
+  }
+}

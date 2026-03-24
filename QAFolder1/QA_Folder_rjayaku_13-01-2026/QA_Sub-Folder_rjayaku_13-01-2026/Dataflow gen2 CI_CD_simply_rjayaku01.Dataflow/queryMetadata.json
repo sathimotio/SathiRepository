@@ -1,0 +1,20 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {},
+  "name": "Dataflow gen2 CI_CD_simply_rjayaku01",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "Megaquery": {
+      "queryId": "77a723aa-98c5-4737-a709-fdc42f748b49",
+      "queryName": "Megaquery"
+    }
+  },
+  "connections": [
+    {
+      "path": "PowerPlatformDataflows",
+      "kind": "PowerPlatformDataflows",
+      "connectionId": "{\"ClusterId\":\"b6e71003-dc09-47ca-8c93-3ea1d8883632\",\"DatasourceId\":\"90379697-e5e8-4fd1-8c78-19e32933b9ba\"}"
+    }
+  ]
+}
